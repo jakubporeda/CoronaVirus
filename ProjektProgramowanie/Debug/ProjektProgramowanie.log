@@ -1,0 +1,4 @@
+﻿  Źródło.cpp
+c:\users\jakub\onedrive\pulpit\projektprogramowanie\projektprogramowanie\źródło.cpp(846): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\jakub\onedrive\pulpit\projektprogramowanie\projektprogramowanie\źródło.cpp(914): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  ProjektProgramowanie.vcxproj -> C:\Users\jakub\OneDrive\Pulpit\ProjektProgramowanie\Debug\ProjektProgramowanie.exe
